@@ -10,7 +10,7 @@
 
 ### what i actually do
 
-Somewhere between curious, pragmatic, and a little obsessive. I'm drawn to the parts of data work that are easy to overlook — the messy inputs nobody wants to touch, the pattern that only shows up when you look sideways, the moment a model clicks into place after it definitely shouldn't have. What keeps me going is building things that other people can actually use. Not demos. Not notebooks left open on a laptop. Things that work.
+Somewhere between curious, pragmatic, and a little obsessive. I'm drawn to the parts of data work that are easy to overlook, the messy inputs nobody wants to touch, the pattern that only shows up when you look sideways, the moment a model clicks into place after it definitely shouldn't have. My interest is in the distance between data and decisions. Not just bridging it, but building that bridge well enough that it doesn't need to be rebuilt every single time something upstream changes.
 
 ---
 
