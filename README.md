@@ -4,8 +4,6 @@
 
 **ML Engineer · Data Engineer · Open Source**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BD157&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/BD157)
-
 </div>
 
 ---
