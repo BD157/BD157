@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   data goes in raw.   something useful comes out.   ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
 # BD157
 
 **ML Engineer · Data Engineer · Open Source**
