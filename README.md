@@ -2,7 +2,7 @@
 
 # BD157
 
-**ML Engineer · Data Engineer · Open Source**
+Data Engineer
 
 </div>
 
